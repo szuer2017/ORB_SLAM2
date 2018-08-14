@@ -1,3 +1,9 @@
+此版本在Ubuntu 14.04 上可以完成编译，修改前人的部分bug 。
+
+edited by : szuer2017
+
+
+
 What is Pangolin {#mainpage}
 ====================================
 
